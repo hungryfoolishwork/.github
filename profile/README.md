@@ -1,1 +1,3 @@
-### We are witnessing a new generation of _declarative_ tools. They are more empowering, more personal and they _feel right_. Human progress is accelerating with increased agency and creativity. Hungry, Foolish is an independent studio looking to have some fun rethinking and building tools for this moment.
+We are witnessing a shift towards more _declarative_ tools. They are more empowering, more personal and they just _feel right_. Hungry, Foolish is an indy software studio looking to have some fun building for this moment. _More to come!_
+
+— [Nathan](https://x.com/nathanborror)
