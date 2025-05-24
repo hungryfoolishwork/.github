@@ -1,1 +1,1 @@
-We are witnessing a shift towards _declarative_ tools. They are more empowering, more personal and they just _feel right_. Hungry, Foolish is an indy software studio looking to have some fun building for this era. _More to come!_
+We are experiencing a shift towards _declarative_ tools. They are more empowering, more personal and they just _feel right_. Hungry, Foolish is an indy software studio looking to have some fun building for this era. _More to come!_
